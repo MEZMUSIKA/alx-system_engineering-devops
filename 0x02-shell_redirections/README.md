@@ -1,1 +1,1 @@
-script that displays the 3 line
+writes into the file
