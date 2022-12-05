@@ -1,1 +1,1 @@
-Display first 10
+script that displays the 3 line
