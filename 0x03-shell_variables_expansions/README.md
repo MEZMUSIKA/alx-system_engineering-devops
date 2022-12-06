@@ -1,1 +1,1 @@
-Create a script that counts
+Local variable
