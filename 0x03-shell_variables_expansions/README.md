@@ -1,1 +1,1 @@
-Global variables
+Create a script that counts
