@@ -1,2 +1,2 @@
 #!/bin/bash
-past - - | cat -fl
+paste - - | cut -fl
