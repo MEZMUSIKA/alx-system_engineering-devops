@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep ^d | wc -1
+echo $PATH | grep ^d ":" "\n" | wc -1
